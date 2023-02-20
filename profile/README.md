@@ -2,20 +2,20 @@
 
 # Welcome to Data From Africa!
 
-## 🙋‍♀️ We are a Ghanaian Github organization dedicated to collecting,
-processing, and analyzing data from various African countries.
+## 🙋‍♀️ We are a Ghanaian Github organization
+dedicated to collecting, processing, and analyzing data from various African countries.
 Our mission is to provide reliable and accurate data that can inform
 evidence-based data science and decision-making in various sectors,
 including healthcare, education, agriculture, and economics.
 
-## 🌈 Contribution guidelines
+<!--## 🌈 Contribution guidelines
 
 
 ## 👩‍💻 Useful resources
----
+
 
 ## 🍿 Fun facts
----
+--!>
 
 ## 🏢 Our team
 
