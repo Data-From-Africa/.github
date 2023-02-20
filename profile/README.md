@@ -19,7 +19,8 @@ including healthcare, education, agriculture, and economics.
 
 ## 🏢 Our team
 
-
 - [Boniface Dakey](https://github.com/Serkhani)
 - [Jude Boachie](https://github.com/boachiejude)
 - [Joseph Awuku](https://github.com/JosephAwuku33)
+- [Paul Walter](https://github.com/exe-walt)
+- [Sylvester Akrong](https://github.com/sylvesterakrong)
